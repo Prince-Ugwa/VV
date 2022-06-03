@@ -1,4 +1,4 @@
-# <h1> Developer of value (VV) </h1>
+# <h1> Developers of value (VV) </h1>
 <p>
   An online fictional educational.
   </p>
